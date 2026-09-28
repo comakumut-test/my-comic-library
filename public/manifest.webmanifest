@@ -1,0 +1,3 @@
+{ "name": "Comic Shelf", "short_name": "Comics", "start_url": "/", "display": "standalone",
+  "background_color": "#0f1c3c", "theme_color": "#2447a8",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }] }
